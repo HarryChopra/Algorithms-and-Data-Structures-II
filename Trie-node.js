@@ -1,3 +1,4 @@
+
 class TrieNode {
   constructor(character, isWord = false) {
     this.character = character;
