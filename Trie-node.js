@@ -1,3 +1,4 @@
+//(Stretch: Tests Due) 
 
 class TrieNode {
   constructor(character, isWord = false) {
