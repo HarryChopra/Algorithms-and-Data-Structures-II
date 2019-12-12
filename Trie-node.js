@@ -1,3 +1,4 @@
+//Reviewed. Status: Done.
 //(Stretch: Tests Due) 
 
 class TrieNode {
