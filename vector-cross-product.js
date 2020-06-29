@@ -1,3 +1,4 @@
+
 // A vector is defined as having three dimensions as being represented
 // by an ordered collection of three numbers:   (X, Y, Z).
 // Write a function that takes two vectors (arrays) as input and computes their cross product.
