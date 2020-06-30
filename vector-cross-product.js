@@ -1,3 +1,4 @@
+//Reviewed. Status: Done.
 //(Stretch: Tests Due) 
 
 // A vector is defined as having three dimensions as being represented
