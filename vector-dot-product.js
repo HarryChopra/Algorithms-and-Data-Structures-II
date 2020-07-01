@@ -1,3 +1,4 @@
+//(Stretch: Tests Due) 
 
 // A vector is defined as having three dimensions as being
 // represented by an ordered collection of three numbers:   (X, Y, Z).
